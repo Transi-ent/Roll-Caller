@@ -21,7 +21,7 @@
 ## 安装与运行（仅前端调试）
 
 ```bash
-cd ..\Roll-Caller
+cd ./Roll-Caller
 npm install
 npm run dev
 ```
@@ -35,7 +35,7 @@ npm run dev
 2. 在项目目录中安装依赖：
 
    ```bash
-   cd ..\Roll-Caller
+   cd ./Roll-Caller
    npm install
    ```
 
