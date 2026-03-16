@@ -1,4 +1,5 @@
 # 点名器（Roll Call）
+> 本项目完全由Cursor开发而成，未进行任何人工干预。
 
 一个基于 Vite + React + TypeScript 的本地点名小工具，支持导入 / 导出 Excel 名单、配置点名策略和查看点名记录。
 
@@ -19,7 +20,7 @@
 ## 安装与运行（仅前端调试）
 
 ```bash
-cd e:\CursorProjects
+cd ..\Roll-Caller
 npm install
 npm run dev
 ```
@@ -33,7 +34,7 @@ npm run dev
 2. 在项目目录中安装依赖：
 
    ```bash
-   cd e:\CursorProjects
+   cd ..\Roll-Caller
    npm install
    ```
 
@@ -51,7 +52,7 @@ npm run dev
 
    构建完成后，控制台会提示输出路径，一般会在 `dist` 相关目录下生成一个类似：
 
-   `点名器-安装包-1.0.0.exe`
+   `Roll-Caller-1.0.0.exe`
 
 5. 将这个 `.exe` 文件发给小白用户，他们只需双击运行，按向导下一步安装即可像普通 Windows 软件一样使用点名器。
 
